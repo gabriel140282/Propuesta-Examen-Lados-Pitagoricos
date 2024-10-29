@@ -3,7 +3,7 @@
 
 int main() {
 
-    triple_pitagorico(); //
+    triple_pitagorico();
 
     std::cout<<tripleta1[0]<<", "<<tripleta1[1]<<", "<<tripleta1[2]<<std::endl;
     std::cout<<tripleta2[0]<<", "<<tripleta2[1]<<", "<<tripleta2[2]<<std::endl;
